@@ -3,6 +3,10 @@ html {
   overflow-x: hidden;
 }
 
+::selection {
+  background-color: #fca08f;
+  color:#000;
+}
 body {
   background: #fff;
   font-size: 14px;
@@ -1279,7 +1283,7 @@ textarea {
 /* Footer Area Start */
 .footer-area {
   position: relative;
-  padding: 150px 0px 0px;
+  /* padding: 150px 0px 0px; */
   background: #fff;
 }
 
@@ -1416,6 +1420,7 @@ textarea {
 }
 
 .highlight {
+  background-color: #eee;
   color: #000;
 }
 .highlight-color{
@@ -1432,4 +1437,7 @@ textarea {
   color: #ff6347;
 }
 
-
+.graybox {
+  background-color: whitesmoke;
+  padding: 20px;
+}
