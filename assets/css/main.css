@@ -509,6 +509,7 @@ hr {
 }
 
 .navbar-brand {
+  color: #ff6347;
   position: relative;
   padding: 0px;
 }
@@ -1430,4 +1431,5 @@ textarea {
 .alarm {
   color: #ff6347;
 }
+
 
