@@ -427,7 +427,6 @@ hr {
   -webkit-transition: all 0.3s ease-in-out 0s;
   -o-transition: all 0.3s ease-in-out 0s;
 }
-
 .services-item .icon {
   border: 1px solid #f1f1f1;
   width: 70px;
@@ -1431,3 +1430,4 @@ textarea {
 .alarm {
   color: #ff6347;
 }
+
